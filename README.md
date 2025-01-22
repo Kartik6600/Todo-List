@@ -1,4 +1,4 @@
-# To-Do List App using MERN Stack
+# To-Do List App
 
 A simple and intuitive To-Do List application to manage your tasks efficiently.  
 
@@ -31,4 +31,5 @@ A simple and intuitive To-Do List application to manage your tasks efficiently.
 
 Below is a screenshot of the application interface:
 
-![To-Do List App Output](https://github.com/user-attachments/assets/21af6806-6983-4497-8acd-20e0bd3c3e7e)
+![Screenshot 2025-01-22 154114](https://github.com/user-attachments/assets/2808a914-08a0-46ee-b80e-0112c7f93f6f)
+
